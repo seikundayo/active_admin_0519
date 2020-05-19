@@ -1,0 +1,11 @@
+ja:
+ activerecord:
+   models:
+    user: ユーザー
+    admin_user: "管理者"
+    comment: "コメント"
+   attributes:
+      user:
+        name: "名前"
+        age: "年齢"
+        address: "住所"
